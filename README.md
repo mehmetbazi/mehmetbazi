@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Mehmet.
 - 👀 I’m interested in Electrical-Electronics and Software.
-- 🌱 I’m currently learning C, C++, PLC Programming, HMI Design and Electrical Panel Design. I am mostly working on Industrial Automation.
+- 🌱 I’m currently learning C, C++, PLC Programming, HMI Design, and Electrical Panel Design. I mostly work in the field of Industrial Automation.
